@@ -4,7 +4,7 @@
 # search and retweet You can edit this with
 # any hastag .For example : '# javascript'
 
-QUERY = '#cybersecurity'
+QUERY = '#Roblox'
 
 # Twitter bot setting for liking Tweets
 LIKE = True
